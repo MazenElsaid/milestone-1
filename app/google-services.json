@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "998170298454",
+    "firebase_url": "https://talabat-99240-default-rtdb.firebaseio.com",
+    "project_id": "talabat-99240",
+    "storage_bucket": "talabat-99240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998170298454:android:50aa07d7a865c08e4e53f7",
+        "android_client_info": {
+          "package_name": "com.example.talabat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDl5uQ4x9fKsVyl6S8G7CO8VPPBnJ8mmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998170298454:android:3f90f6b021ab80534e53f7",
+        "android_client_info": {
+          "package_name": "com.example.talabt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDl5uQ4x9fKsVyl6S8G7CO8VPPBnJ8mmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
